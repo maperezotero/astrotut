@@ -29,6 +29,10 @@ h1 {
   font-size: 2.5rem;
 }
 
+li {
+  padding-bottom: 1rem;
+}
+
 /* nav styles */
 .hamburger {
   padding-right: 20px;
